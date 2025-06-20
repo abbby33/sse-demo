@@ -74,14 +74,3 @@ sse/
 - **TypeScript**: 类型安全的开发体验
 - **Next.js API**: 了解Next.js的API路由功能
 
-## 🌟 扩展功能
-
-- 添加用户认证
-- 支持多频道/房间
-- 消息持久化
-- WebSocket双向通信升级
-- 性能优化
-
-## �� 许可证
-
-MIT License 
